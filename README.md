@@ -1,1 +1,1 @@
-# ai-system-security
+Материалы практики для курса по безопасности AI-систем (LLM, MCP, агенты) https://stepik.org/course/280764
