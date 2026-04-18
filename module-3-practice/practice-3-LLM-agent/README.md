@@ -1,4 +1,5 @@
-Пратика пентестинга LLM-агентов по следующей цепочке атак `tool enumeration`->`tool explotation`
+# Пратика пентестинга LLM-агентов по следующей цепочке атак `tool enumeration`->`tool explotation`
+
 1. Установите уязвимый LLM агент https://github.com/AI-Threat-Team/vulnerable-llm-agent в соответствие с  инструкациями в README.md
 2. Запустите LLM бэкенд  в OpenAI API поддерживаемом формате
 - ollama: https://docs.ollama.com/api/openai-compatibility
